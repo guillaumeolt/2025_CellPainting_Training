@@ -1,3 +1,2 @@
-# 🧪 Ewald Lab TRaining of CellPainting data
-
-This repository is intended to learn how to analyse CelPainting datasets
+# 🧪 Ewald Lab Training on Cell Painting Data
+This repository is intended to help users learn how to analyze Cell Painting datasets.
