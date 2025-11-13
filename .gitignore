@@ -182,7 +182,7 @@ __marimo__/
 00_input/
 
 # Processed
-02_processed_data/
+02_processed_data/*.csv
 
 # Environment
 .env/

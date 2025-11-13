@@ -29,6 +29,9 @@ Typical input data includes:
 Image-based features (*.csv or *.parquet)
 Metadata files (e.g., plate map, compound annotations)
 If you do not yet have a dataset, you can download a public Cell Painting dataset, such as those available from the Broad Institute Cell Painting Gallery.
+
+[TODO] Give details of the different files
+
 # ⚙️ 3. Data Processing
 All steps for processing raw CellProfiler output into analysis-ready data are contained in:
 
